@@ -1,2 +1,3 @@
 # Widget1.github.io
-widget
+Нужен локальный сервер или хостинг на github не работает
+https://alexandere1997.github.io/Widget1.github.io/

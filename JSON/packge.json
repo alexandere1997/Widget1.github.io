@@ -1,7 +1,7 @@
 {
   "Worker1": {
     "name": "Носков Николай Викторович",
-    "data": "11.02",
+    "data": "25.03",
     "year": ".1996",
     "link": "https://www.facebook.com/",
     "nameLink": "Facebook",
@@ -9,7 +9,7 @@
   },
   "Worker2": {
     "name": "Петров Пётр Сергеевич",
-    "data": "23.02",
+    "data": "26.03",
     "year": ".1993",
     "link": "https://vk.com/",
     "nameLink": "В Контакте",
@@ -25,7 +25,7 @@
 },
 "Worker4": {
     "name": "Блажевич Игорь Юрьевич",
-    "data": "05.01",
+    "data": "28.03",
     "year": ".1986" ,
     "link": "https://twitter.com",
     "nameLink": "Twitter",

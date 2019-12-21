@@ -26,4 +26,5 @@
 
 "jquery": "^3.4.1"
 
-Запуск командой gulp либо на локальном сервере denwer, OpenServer
+Запуск командой gulp либо на локальном сервере denwer, OpenServer.
+Либо на github https://alexandere1997.github.io/Widget1.github.io/build/index.html
